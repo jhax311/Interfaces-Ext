@@ -40,7 +40,7 @@ public class Ej35JhoNar {
         System.out.println("El número entero mínimo es: "+math3.min(enteros));
         System.out.printf("El número decimal máximo es: %.1f\n",math3.max(decimales));
         System.out.printf("El número decimal mínimo es: %.1f\n",math3.min(decimales));
-
+      
     }
 
 }

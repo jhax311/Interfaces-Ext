@@ -1,7 +1,8 @@
 package extremos;
 
 /**
-  * @author Jhoel Alexander Narváez Valarezo
+ * @author Jhoel Alexander Narváez Valarezo
+ * 
  */
 public final class M3JhoNar implements IntEJhoNar{
 
